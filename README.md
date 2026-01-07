@@ -9,6 +9,7 @@
 ## Programın Çalışma Mantığı
 *Program çalıştırıldığında kullanıcıdan bir bilim insanı adı alınmakta,ardından menü üzerinden gerçekleştirmek istenen deney seçilmektedir.Seçilen deney için hesaplamalar yapılmakta ve elde edilen sonuçlar birimleriyle birlikte konsol ekranında gösterilmektedir.
 Proje,Algoritmalar ve Programalam dersi kapsamında bireysel olarak hazırlanmıştır.
+Projeyi çalıştırmak için önce build(Derle) işlemi yapılmalıdır.Derlendikten sonra sorunsuz şekilde çalışmaktadır.
 ## Kullanılan Konular ve Yapılar
 *C programlama dili
 *Fonksiyon kullanımı
